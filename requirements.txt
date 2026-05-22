@@ -1,0 +1,5 @@
+httpx>=0.27.0
+websockets>=12.0
+python-dotenv>=1.0.1
+# Optional — only needed for webhook mode (TELEGRAM_WEBHOOK_URL set)
+aiohttp>=3.9.0
